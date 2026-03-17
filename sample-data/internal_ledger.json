@@ -1,0 +1,27 @@
+[
+  {"trade_id": "TRD-001", "symbol": "AAPL", "quantity": 10, "price": 150.00, "fee":
+  10.00},
+  {"trade_id": "TRD-002", "symbol": "TSLA", "quantity": 5, "price": 700.00, "fee": 10.00},
+  {"trade_id": "TRD-003", "symbol": "GOOG", "quantity": 2, "price": 2500.00, "fee":
+  10.00},
+  {"trade_id": "TRD-004", "symbol": "MSFT", "quantity": 20, "price": 300.00, "fee":
+  10.00},
+  {"trade_id": "TRD-005", "symbol": "AMZN", "quantity": 15, "price": 120.00, "fee":
+  10.00},
+  {"trade_id": "TRD-006", "symbol": "META", "quantity": 8, "price": 210.00, "fee": 10.00},
+  {"trade_id": "TRD-007", "symbol": "NFLX", "quantity": 12, "price": 350.00, "fee":
+  10.00},
+  {"trade_id": "TRD-008", "symbol": "NVDA", "quantity": 4, "price": 450.00, "fee": 10.00},
+  {"trade_id": "TRD-009", "symbol": "BABA", "quantity": 50, "price": 90.00, "fee": 10.00},
+  {"trade_id": "TRD-010", "symbol": "AMD", "quantity": 25, "price": 110.00, "fee": 10.00},
+  {"trade_id": "TRD-011", "symbol": "INTC", "quantity": 100, "price": 30.00, "fee":
+  10.00},
+  {"trade_id": "TRD-012", "symbol": "PYPL", "quantity": 30, "price": 65.00, "fee": 10.00},
+  {"trade_id": "TRD-013", "symbol": "SQ", "quantity": 40, "price": 75.00, "fee": 10.00},
+  {"trade_id": "TRD-014", "symbol": "SHOP", "quantity": 10, "price": 55.00, "fee": 10.00},
+  {"trade_id": "TRD-015", "symbol": "U", "quantity": 100, "price": 28.00, "fee": 10.00},
+  {"trade_id": "TRD-016", "symbol": "SNOW", "quantity": 5, "price": 160.00, "fee": 10.00},
+  {"trade_id": "TRD-017", "symbol": "PLTR", "quantity": 200, "price": 15.00, "fee":
+  10.00},
+  {"trade_id": "TRD-018", "symbol": "TSM", "quantity": 15, "price": 95.00, "fee": 10.00}
+]

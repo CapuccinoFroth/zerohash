@@ -1,0 +1,14 @@
+{
+  "name": "zerohash-reconciliation",
+  "version": "1.0.0",
+  "description": "Reconciliation tool for JSON vs CSV data integrity",
+  "type": "module",
+  "main": "reconcile.js",
+  "bin": {
+    "reconcile": "./reconcile.js"
+  },
+  "scripts": {
+    "reconcile": "node reconcile.js",
+    "test": "node reconcile.js sample-data/internal_ledger.json sample-data/bank_settlement.csv --key trade_id"
+  }
+}
